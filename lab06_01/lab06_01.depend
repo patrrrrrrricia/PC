@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730807054 source:c:\users\patricia\desktop\uni\pc\lab\lab06_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tablouri.h"
+
+1730807432 c:\users\patricia\desktop\uni\pc\lab\lab06_01\tablouri.h
+
+1730807432 source:c:\users\patricia\desktop\uni\pc\lab\lab06_01\tablouri.c
+	"tablouri.h"
+	<stdio.h>
+
